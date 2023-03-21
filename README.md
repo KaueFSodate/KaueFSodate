@@ -34,7 +34,8 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
   
-##<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/PxXL2BDf/kauezin2.png">
+##
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.postimg.cc/PxXL2BDf/kauezin2.png">
 
 
 ### Contatos:
