@@ -1,4 +1,4 @@
-<div style="display: inline-block;">
+<div style="display: flex; flex-direction: row;">
 <a href="https://github.com/KaueFSodate">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaueFSodate&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaueFSodate&show_icons=true&theme=dracula&count_private=true"/>
