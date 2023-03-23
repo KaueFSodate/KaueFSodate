@@ -47,3 +47,4 @@
 </div>
 
 
+![Snake animation](https://github.com/KaueFSodate/KaueFSodate/blob/output/github-contribution-grid-snake.svg)
